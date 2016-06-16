@@ -1,0 +1,3 @@
+java.util.List = java.util.ArrayList
+java.util.Map = java.util.HashMap
+br.com.caelum.capIII_criando_objetos.modelo.Animal = br.com.caelum.capIII_criando_objetos.modelo.Cachorro
